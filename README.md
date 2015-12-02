@@ -3,7 +3,7 @@ This is intended as a semi-private repository for our solutions to the problems 
 Found [Here:](https://github.com/karan/Projects)
 
 
-
+Copy of contents for reference purposes:
 ## Table of Contents
 
 - [Numbers](https://github.com/karan/Projects#numbers)
